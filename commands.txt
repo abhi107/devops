@@ -6,19 +6,7 @@ git commit -m
 git  restore
 git log
 git log --oneline
-<<<<<<< HEAD
-git log --oneline --pretty
-git checkout
-git chekcout -b
-git clone
-git remote -v
-git push
-git pull
-git fetch
-git pull origin main
-git remote set-url
-=======
-git log --oneline --prettyt 
+git log --oneline --pretty 
 git checkout -b
 git checkout
 git branch
@@ -35,4 +23,3 @@ git revert <commit id>
 git reset --soft
 git reset --hard
 git diff
->>>>>>> dev
