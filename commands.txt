@@ -7,3 +7,12 @@ git  restore
 git log
 git log --oneline
 git log --oneline --pretty
+git checkout
+git chekcout -b
+git clone
+git remote -v
+git push
+git pull
+git fetch
+git pull origin main
+git remote set-url
